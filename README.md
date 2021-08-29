@@ -1,3 +1,7 @@
+## Visualização
+![enter image description here](https://github.com/denalves/Projeto-Repos/blob/master/src/assets/Anima%C3%A7%C3%A3o.gif?raw=true)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
