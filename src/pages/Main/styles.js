@@ -18,10 +18,18 @@ export const Container = styled.div`
       margin-right: 10px;
     }
   }
+
+  p{
+    font-size: 13px;
+    margin-top: 20px;
+    margin-left: 5px;
+    color: #999;
+  }
+  
 `;
 
 export const Form = styled.form`
-  margin-top: 30px;
+  margin-top: 10px;
   display: flex;
   flex-direction: row;
 

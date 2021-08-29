@@ -83,6 +83,8 @@ const Main = () => {
           Meus Repositorios
         </h1>
 
+        <p>Ex: angular/angular</p>
+
         <Form onSubmit={handleSubmit} error={alert}>
           <input
             type="text"
